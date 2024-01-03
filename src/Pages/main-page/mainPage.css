@@ -1,0 +1,52 @@
+#spin {
+    color:rgb(41, 36, 36);
+  }
+#spin:after {
+content:"";
+animation: spin 5s linear infinite;
+}
+.center {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    padding: 70px 0;
+}
+.main-container{
+    background-image: url('hallstatt-3609863_1920.jpg');    
+    background-size: 100%;
+    height: 90vh;
+    width: 100%;
+}
+.book-btn{
+    width: 160px;
+    background-color: #53885a;
+}
+.tripInfo{
+    display: flex;
+    flex-direction: row;
+}
+.change::after{
+    content:'Vietnam';
+    animation-name: changetext;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes changetext {
+    20%{
+        content:'Germany';
+    }
+    40%{
+        content: 'Singapore';
+    }
+    60% {
+        content: 'Canada';
+    }
+    80%{
+        content:'Thailand';
+    }
+    100% {
+        content: 'Dubai';
+    }
+    
+}
