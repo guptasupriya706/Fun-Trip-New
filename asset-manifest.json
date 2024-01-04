@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Fun-Trip-New/static/css/main.1ad9b014.css",
+    "main.js": "/Fun-Trip-New/static/js/main.6e02dad5.js",
+    "static/js/787.cf922b61.chunk.js": "/Fun-Trip-New/static/js/787.cf922b61.chunk.js",
+    "static/media/Cityscape.jpg": "/Fun-Trip-New/static/media/Cityscape.a101a6e21c915c20e61f.jpg",
+    "static/media/Empire State Building in New York.jpg": "/Fun-Trip-New/static/media/Empire State Building in New York.cc8481794e7c2df24402.jpg",
+    "static/media/vietnam.webp": "/Fun-Trip-New/static/media/vietnam.dd8130421f1868ee0d47.webp",
+    "static/media/France.jpg": "/Fun-Trip-New/static/media/France.fc4099b4585416827cf9.jpg",
+    "static/media/Taj Mahal.jpg": "/Fun-Trip-New/static/media/Taj Mahal.814a66b068e3eb8be375.jpg",
+    "static/media/India Gate.jpg": "/Fun-Trip-New/static/media/India Gate.96d785278dd18ee58a76.jpg",
+    "static/media/GoldenGate Bridge.jpg": "/Fun-Trip-New/static/media/GoldenGate Bridge.e78b9fbe3aa0c437aa36.jpg",
+    "static/media/Himalaya.jpg": "/Fun-Trip-New/static/media/Himalaya.af80b3e6b6d235c65483.jpg",
+    "static/media/phiphi-island.jpg": "/Fun-Trip-New/static/media/phiphi-island.0c60ec2791d313ce1caa.jpg",
+    "static/media/hallstatt-3609863_1920.jpg": "/Fun-Trip-New/static/media/hallstatt-3609863_1920.6d6599226fd803e71147.jpg",
+    "static/media/bali.jpg": "/Fun-Trip-New/static/media/bali.83d966b1271a5a870f37.jpg",
+    "static/media/Chrysler Building in New York.jpg": "/Fun-Trip-New/static/media/Chrysler Building in New York.a63b0ca1cc2d56806242.jpg",
+    "static/media/statue of liberty.webp": "/Fun-Trip-New/static/media/statue of liberty.9661518c1e28120e7628.webp",
+    "static/media/FrankfurtOldTown.jpg": "/Fun-Trip-New/static/media/FrankfurtOldTown.53aa1dd6bbf4fff13568.jpg",
+    "static/media/Berlin.jpg": "/Fun-Trip-New/static/media/Berlin.bc963d3036adc3c747b2.jpg",
+    "static/media/singapore.jpeg": "/Fun-Trip-New/static/media/singapore.4cffede8df3b07d0125a.jpeg",
+    "static/media/Harrisburg_Pennsylvania_USA.jpg": "/Fun-Trip-New/static/media/Harrisburg_Pennsylvania_USA.6fbeede18ddb1641af78.jpg",
+    "static/media/istockphoto-1162597477-1024x1024.jpg": "/Fun-Trip-New/static/media/istockphoto-1162597477-1024x1024.6fbeede18ddb1641af78.jpg",
+    "static/media/Book_Now.png": "/Fun-Trip-New/static/media/Book_Now.a59a4cd31fcecaeb7008.png",
+    "static/media/usaImg.jpg": "/Fun-Trip-New/static/media/usaImg.198017c61cfc3d2f73b9.jpg",
+    "static/media/France123.jpg": "/Fun-Trip-New/static/media/France123.5da59366b1af995019cf.jpg",
+    "static/media/Kula lumpur.avif": "/Fun-Trip-New/static/media/Kula lumpur.03e1ce12038c8ba72d6f.avif",
+    "static/media/great wall.webp": "/Fun-Trip-New/static/media/great wall.ced63432999a86e8f1c6.webp",
+    "static/media/tripLogo.jpg": "/Fun-Trip-New/static/media/tripLogo.da3e8ee30bcec1dafd30.jpg",
+    "static/media/logo.svg": "/Fun-Trip-New/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Fun-Trip-New/index.html",
+    "main.1ad9b014.css.map": "/Fun-Trip-New/static/css/main.1ad9b014.css.map",
+    "main.6e02dad5.js.map": "/Fun-Trip-New/static/js/main.6e02dad5.js.map",
+    "787.cf922b61.chunk.js.map": "/Fun-Trip-New/static/js/787.cf922b61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ad9b014.css",
+    "static/js/main.6e02dad5.js"
+  ]
+}
