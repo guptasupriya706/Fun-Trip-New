@@ -53,5 +53,7 @@
   "devDependencies": {
     "react-router-dom": "^6.20.1"
   },
-  "homepage": "https://guptasupriya706.github.io/Fun-Trip-New"
+  "homepage": "https://guptasupriya706.github.io/Fun-Trip-New",
+  "Book": "https://guptasupriya706.github.io/Fun-Trip-New/booking",
+  "UnitedState": "https://guptasupriya706.github.io/Fun-Trip-New/UnitedState"
 }
